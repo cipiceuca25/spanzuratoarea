@@ -1,0 +1,23 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2012-09-25 16:44:50 --> 404 Page Not Found --> Welcome
+ERROR - 2012-09-25 16:44:58 --> 404 Page Not Found --> Welcome
+ERROR - 2012-09-25 16:45:07 --> 404 Page Not Found --> Welcome
+ERROR - 2012-09-25 17:02:20 --> 404 Page Not Found --> Welcome
+ERROR - 2012-09-25 17:02:58 --> 404 Page Not Found --> /img
+ERROR - 2012-09-25 17:02:59 --> 404 Page Not Found --> /img
+ERROR - 2012-09-25 17:06:48 --> 404 Page Not Found --> Welcome
+ERROR - 2012-09-25 17:06:50 --> 404 Page Not Found --> Welcome
+ERROR - 2012-09-25 17:06:53 --> 404 Page Not Found --> Welcome
+ERROR - 2012-09-25 17:07:12 --> 404 Page Not Found --> Welcome
+ERROR - 2012-09-25 17:07:42 --> 404 Page Not Found --> Welcome
+ERROR - 2012-09-25 17:07:49 --> 404 Page Not Found --> Welcome
+ERROR - 2012-09-25 17:07:56 --> 404 Page Not Found --> Welcome
+ERROR - 2012-09-25 17:08:22 --> 404 Page Not Found --> Welcome
+ERROR - 2012-09-25 17:08:26 --> 404 Page Not Found --> Welcome
+ERROR - 2012-09-25 17:09:14 --> 404 Page Not Found --> Welcome
+ERROR - 2012-09-25 17:09:58 --> 404 Page Not Found --> Welcome
+ERROR - 2012-09-25 17:10:04 --> 404 Page Not Found --> Welcome
+ERROR - 2012-09-25 17:11:25 --> 404 Page Not Found --> Welcome
+ERROR - 2012-09-25 18:24:05 --> 404 Page Not Found --> welcome/guessword
+ERROR - 2012-09-25 18:25:19 --> 404 Page Not Found --> welcome/guessword
